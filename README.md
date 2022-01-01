@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently busy with applying for development jobs (long-term projects or a full-time contract).
-- 📫 How to reach me: `safe.sand1626@fastmail.com`.
-- 🌱 I’m improving my Javascript/Typescript/Node/Frameworks/WebComponents/SQL skills.
+- 🔭 I’m currently busy improving my Javascript/Typescript/Node/Frameworks/WebComponents/SQL skills.
 - 🌱 Also, experimenting with Go, Nix and a little bit of Rust.
+- 📫 How to reach me: `safe.sand1626@fastmail.com`.
 - ⚡ Fun fact: I will be publishing my first [Kaboom Shebang](https://www.kaboomshebang.com) blog post early 2022.
 
 <!--
