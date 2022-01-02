@@ -3,7 +3,7 @@
 - 🔭 I’m currently busy improving my Javascript/Typescript/Node/Frameworks/WebComponents/SQL skills.
 - 🌱 Also, experimenting with Go, Nix and a little bit of Rust.
 - 📫 How to reach me: `safe.sand1626@fastmail.com`.
-- ⚡ Fun fact: I will be publishing my first [Kaboom Shebang](https://www.kaboomshebang.com) blog post early 2022.
+- ⚡ Fun fact: I will be publishing my first [Kaboom Shebang](https://www.kaboomshebang.com) blog posts early 2022.
 
 <!--
 **fred-snyder/fred-snyder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
