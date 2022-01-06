@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Check out my _apps and projects_** in the [Kaboom Shebang repo](https://github.com/kaboomshebang).
+**Check out my _apps and projects_** in the 👉 👉 [Kaboom Shebang repo](https://github.com/kaboomshebang) 👈 👈.
 
 - 🔭 I’m currently busy improving my Javascript/Typescript/Node/Frameworks/WebComponents/SQL skills.
 - 🌱 Also, experimenting with Go, Nix and a little bit of Rust.
