@@ -11,7 +11,7 @@
 
 ----------------------------
 
-## 🎉 **I'm currently applying to companies for Front-end developer roles.**
+## 🎉 **I'm currently applying to companies for data and developer roles.**
 
 ----------------------------
 
