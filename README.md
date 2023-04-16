@@ -2,9 +2,10 @@
 
 **Check out my _apps and projects_** in the 👉 👉 [Kaboom Shebang repo](https://github.com/kaboomshebang) 👈 👈.
 
-- 🔭 Mainly working with Javascript/Typescript/React/Svelte
-- 🌱 Building pet-projects with Node/Express/WebComponents/SQLite and Docker.
-- 🎈 Playing around with other technologies, such as: Nix, Go, Python and a little bit of Rust.
+- 🔭 Mainly working with Javascript/Python/React/Svelte/Docker/Linux.
+- ✨ Having fun with Python, SQL, and data notebooks.
+- 🌱 Building pet-projects with Django/FastAPI/Node/Express/WebComponents.
+- 🎈 Playing around with other technologies, such as: Nix and Go.
 - 📫 How to reach me: `safe.sand1626@fastmail.com`.
 - ⚡ Fun fact: I published my first [Kaboom Shebang](https://www.kaboomshebang.com) blog posts early 2022.
 
